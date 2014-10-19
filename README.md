@@ -2,10 +2,10 @@
 
 ## Components
 
-* Kibana 3.1.0
+* Kibana 3.1.1
 * Nginx
 * Logstash server 1.4.2
-* ElasticSearch server 1.1.1
+* ElasticSearch server 1.3.4
 * Oracle Java 7
 * Ubuntu 14.04 Trusty
 
