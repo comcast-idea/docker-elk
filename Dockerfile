@@ -1,4 +1,4 @@
-FROM smatochkin/logstash:1.4.2
+FROM smatochkin/logstash:latest
 
 # Install Nginx
 RUN apt-get update && \
